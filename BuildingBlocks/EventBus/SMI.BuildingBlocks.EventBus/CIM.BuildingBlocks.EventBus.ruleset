@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="SonarQube - roche-cim-gc Green-field project" ToolsVersion="15.0">
+  <Include Path="..\..\..\..\.sonarlint\roche-cim-becsharp.ruleset" Action="Default" />
+</RuleSet>

@@ -1,0 +1,12 @@
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.deps.json
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.csprojAssemblyReference.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.csproj.CoreCompileInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.AssemblyInfoInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.AssemblyInfo.cs
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.csproj.CopyComplete
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusAzure\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusAzure.pdb

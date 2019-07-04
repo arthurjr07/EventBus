@@ -1,0 +1,16 @@
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.deps.json
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.pdb
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.Common.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.Services.Events.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.Common.pdb
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.pdb
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\CIM.Services.Events.pdb
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.csprojAssemblyReference.cache
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.csproj.CopyComplete
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBusRabbitMQ.pdb

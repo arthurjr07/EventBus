@@ -1,0 +1,12 @@
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.csprojAssemblyReference.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.deps.json
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.csproj.CopyComplete
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBusRabbitMQ\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBusRabbitMQ.pdb

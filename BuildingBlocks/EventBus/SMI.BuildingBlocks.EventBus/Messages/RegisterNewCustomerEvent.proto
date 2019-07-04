@@ -1,0 +1,10 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "SIM.BuildingBlocks.EventBus.Messages";
+
+ message RegisterNewCustomerEvent {
+      int32 Id = 1;
+      string Name = 2;
+	  string Address = 3;
+	  string Description = 4;
+}

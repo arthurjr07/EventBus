@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBusRabbitMQ\\CIM.BuildingBlocks.EventBusRabbitMQ.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBusRabbitMQ\\CIM.BuildingBlocks.EventBusRabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBusRabbitMQ\\CIM.BuildingBlocks.EventBusRabbitMQ.csproj",
+        "projectName": "CIM.BuildingBlocks.EventBusRabbitMQ",
+        "projectPath": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBusRabbitMQ\\CIM.BuildingBlocks.EventBusRabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\Software Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBusRabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Software Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\Common\\CIM.BuildingBlocks.Common\\CIM.BuildingBlocks.Common.csproj": {
+                "projectPath": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\Common\\CIM.BuildingBlocks.Common\\CIM.BuildingBlocks.Common.csproj"
+              },
+              "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBus\\SMI.BuildingBlocks.EventBus.csproj": {
+                "projectPath": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBus\\SMI.BuildingBlocks.EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBus\\SMI.BuildingBlocks.EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBus\\SMI.BuildingBlocks.EventBus.csproj",
+        "projectName": "SMI.BuildingBlocks.EventBus",
+        "projectPath": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBus\\SMI.BuildingBlocks.EventBus.csproj",
+        "packagesPath": "C:\\Users\\Software Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Software Developer\\source\\repos\\EventBusDemo\\BuildingBlocks\\EventBus\\CIM.BuildingBlocks.EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Software Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

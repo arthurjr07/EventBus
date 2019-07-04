@@ -1,0 +1,16 @@
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.deps.json
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.AssemblyInfoInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.AssemblyInfo.cs
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.deps.json
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.pdb
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.AssemblyInfoInputs.cache
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.AssemblyInfo.cs
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.dll
+C:\Users\Software Developer\source\repos\EventBusDemo\BuildingBlocks\EventBus\SMI.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\SMI.BuildingBlocks.EventBus.pdb

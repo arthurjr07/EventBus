@@ -1,0 +1,9 @@
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.deps.json
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\bin\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.pdb
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.csprojAssemblyReference.cache
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.AssemblyInfoInputs.cache
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.AssemblyInfo.cs
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.dll
+C:\Users\crar\Source\Repos\ROCHE-CIM\src\BuildingBlocks\EventBus\CIM.BuildingBlocks.EventBus\obj\Debug\netstandard2.0\CIM.BuildingBlocks.EventBus.pdb
